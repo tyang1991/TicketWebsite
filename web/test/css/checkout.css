@@ -1,0 +1,103 @@
+
+#frame{
+    margin: 0px 300px;
+    /*background: #3775ef;*/
+    /*border: 1px solid green;*/
+}
+
+#tripDetail{
+    border: 1px solid #979797;
+    padding: 10px 5px;
+    border-radius: 15px;
+}
+
+#userInfo{
+    border: 1px solid #979797;
+    margin-top: 30px;
+    padding: 10px 5px;
+    border-radius: 15px;
+}
+.userTile{
+    font-family: Georgia, serif;
+    font-size: 27px;
+    color: #88513a;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.subinfo{
+    margin-left: 30px;
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    margin-bottom: 8px;
+    color: #885c35;
+}
+#userTable{
+    /*border: 1px solid #ff2dee;*/
+    width: 100%;
+    margin-bottom: 20px;
+}
+.text{
+    /*border: 1px solid #ff8720;*/
+    padding-left: 30px;
+}
+
+.textTile{
+
+}
+
+.inputFrame{
+    height: 30px;
+    width: 230px;
+}
+
+.inputFrame[type="text"]{
+    font-size:22px;
+}
+
+#btnSubmit{
+    margin-left: 40%;
+    width: 120px;
+    height: 30px;
+    /*background: #e46c15;*/
+
+}
+/*.oneStopTransferDetail{*/
+/*display: none;*/
+/*}*/
+
+/*.nonStopTransferDetail{*/
+/*display: none;*/
+/*}*/
+
+.departDetail{
+    width: 884px;
+    /*border: 1px solid black;*/
+    /*margin-left: 20px;*/
+    margin-bottom: 10px;
+    margin-left: 8px;
+}
+.departDetail table{
+    width: 884px;
+}
+
+.departDetail table td{
+    text-align: center;
+    /*border: 1px solid black;*/
+    padding-top: 5px;
+    padding-bottom: 5px;
+    /*margin: 0px 20px;*/
+    font-family: 'Arial', sans-serif;
+}
+
+.subTitle{
+    margin: 0px 100px;
+    /*border: 1px solid black;*/
+    background: #e1c9b0;
+    border-radius: 7px;
+}
+
+.minorInfo{
+    font-size: 15px;
+    color: #574f32;
+    font-family: 'Arial', sans-serif;
+}

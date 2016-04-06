@@ -1,0 +1,21 @@
+
+#main{
+    margin: 0px 300px;
+    /*background: #3775ef;*/
+    /*border: 1px solid green;*/
+}
+
+#logo{
+    margin-top: 40px;
+    margin-left: 180px;
+}
+#text{
+    margin-top: 160px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+p{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Helvetica, Arial, sans-serif;
+}
